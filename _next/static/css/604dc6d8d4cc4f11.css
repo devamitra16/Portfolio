@@ -16305,8 +16305,8 @@ body.light .home .bg {
 }
 
 .modal_portfolio .modal__img .slick-slider,.modal_portfolio .modal__img iframe,.modal_portfolio .modal__img img,.modal_portfolio .modal__img video {
-    height: 100%;
-    width: 100%;
+    height: 75%;
+    width: 75%;
     border-radius: .5rem
 }
 
